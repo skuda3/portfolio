@@ -1,3 +1,4 @@
+<script setup></script>
 <template>
   <header class="max-w-5xl mx-auto pt-20 pb-10 px-6 border-b border-slate-800/60">
     <div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-6">
@@ -6,12 +7,12 @@
           David Skucius
         </h1>
         <p class="mt-3 text-lg font-medium text-emerald-400 tracking-wide uppercase text-sm">
-          Software & Web Developer
+          Junior Software & Web Developer
         </p>
       </div>
       <div class="flex flex-wrap gap-4 text-sm text-slate-400">
         <span class="flex items-center gap-2 bg-slate-800/40 px-3 py-1.5 rounded-full border border-slate-700/50">📍 Jihlava / Brno, ČR</span>
-        <a href="mailto:david@skucius.cz" class="flex items-center gap-2 bg-slate-800/40 hover:bg-slate-800 px-3 py-1.5 rounded-full border border-slate-700/50 text-slate-300 transition-colors duration-200">✉️ david@skucius.cz</a>
+        <span class="flex items-center gap-2 bg-slate-800/40 px-3 py-1.5 rounded-full border border-slate-700/50 text-slate-300 select-all cursor-text">✉️ david@skucius.cz</span>
       </div>
     </div>
   </header>
