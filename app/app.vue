@@ -10,7 +10,7 @@ useHead({
       name: 'keywords',
       content: 'David Skucius, softwarový vývojář, webový vývojář, developer, Java, Vue.js, Swift, Kotlin, Spring Boot, Android, iOS, portfolio, Brno, Jihlava'
     },
-    { property: 'og:title', content: 'David Skucius — Software & Web Developer' },
+    { property: 'og:title', content: 'David Skucius — Junior Software & Web Developer' },
     { property: 'og:description', content: 'Osobní portfolio vývojáře se zaměřením na full-stack, mobilní a desktopové aplikace.' },
     { property: 'og:type', content: 'website' },
     { property: 'og:url', content: 'https://skucius.cz' },
