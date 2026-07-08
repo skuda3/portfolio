@@ -48,3 +48,9 @@ useHead({
 
   </div>
 </template>
+
+<style>
+html, body {
+  background-color: #020617;
+}
+</style>
