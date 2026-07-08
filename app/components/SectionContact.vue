@@ -12,7 +12,7 @@ import FormInput from './FormInput.vue'
     </div>
 
     <form action="https://api.web3forms.com/submit" method="POST" class="mt-8 max-w-md mx-auto text-left space-y-4">
-      <input type="hidden" name="access_key" value="TVŮJ_ZKOPIROVANÝ_KLÍČ">
+      <input type="hidden" name="access_key" value="599cdf1e-b18a-4f12-bd20-10e7eda93f14">
 
       <FormInput id="name" label="Jméno / Firma" :required="true" />
       <FormInput id="email" label="E-mailová adresa" type="email" :required="true" />
