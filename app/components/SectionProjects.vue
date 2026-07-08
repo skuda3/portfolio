@@ -65,7 +65,7 @@ import SectionHeading from './SectionHeading.vue'
       <ProjectCard
           title="Třídění odpadu (VA2)"
           subtitle="Chytrá mobilní aplikace"
-          description="Aplikace pro klasifikaci odpadu. Pomocí analýzy fotografie正式 rozpozna objekt a urči správný druh kontejneru. Integruje kompletní mapové podklady všech sběrných nádob v Brně."
+          description="Aplikace pro klasifikaci odpadu. Pomocí analýzy fotografie rozpozná objekt a určí správný druh kontejneru. Integruje kompletní mapové podklady všech sběrných nádob v Brně."
           status="Android"
           github="https://github.com/skuda3/VA2"
       >
